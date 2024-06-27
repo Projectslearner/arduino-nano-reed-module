@@ -1,7 +1,3 @@
-Here's a structured description for your Reed Module project with an Arduino Nano:
-
----
-
 # Reed Module with Arduino Nano
 
 #### Project Overview
